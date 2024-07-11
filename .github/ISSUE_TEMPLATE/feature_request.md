@@ -7,21 +7,25 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+### Is your feature request related to a problem? Please describe.
 
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
+### Describe the solution you'd like
 
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
+### Describe alternatives you've considered
 
 A clear and concise description of any alternative solutions or features you've considered.
 
-**What Priority Level would you ascribe to this feature?**
+### What Priority Level would you ascribe to this feature?
 
 Is this a high priority feature that your team needs for the current sprint, can it be put into our engineering team's future sprint, or is it a nice to have. 
 
-**Additional context**
+### Additional context
 Add any other context or screenshots about the feature request here.
+
+### Request By
+
+Please include the team that you are on, any relevant information so that the team can make sure to include engineers who may have further context for your use case.
