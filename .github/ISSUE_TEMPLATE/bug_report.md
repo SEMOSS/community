@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-A clear and concise description of what the issue is.
+### A clear and concise description of what the issue is.
 
 #### How to reproduce the issue
 
