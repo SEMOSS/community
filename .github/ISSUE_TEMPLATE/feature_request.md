@@ -19,10 +19,6 @@ A clear and concise description of what you want to happen.
 
 A clear and concise description of any alternative solutions or features you've considered.
 
-### What Priority Level would you ascribe to this feature?
-
-Is this a high priority feature that your team needs for the current sprint, can it be put into our engineering team's future sprint, or is it a nice to have. 
-
 ### Additional context
 Add any other context or screenshots about the feature request here.
 
