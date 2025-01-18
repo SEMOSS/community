@@ -26,21 +26,15 @@ Please use the “Feature request” template for desired new features and enhan
      - Use the “Tasks” section to jot down action items needed to move the ticket forward, including the technical tasks you think are needed to implement the feature (if known).
 3. Next, populate the right sidebar with the relevant information.
      - The Type field should be auto-populated with “Feature”, but please add it if not.
-     - Add the ticket to the appropriate Project.
      - Assign the member(s) who will be working on the ticket, if known.
      - Please only use the “Labels” field to capture additional information that is NOT the ticket type, priority level, or status. The ticket type should go in the Type field (“Feature”); the priority level and status will be added under the Project section in the next step.
 4. Click Create!
-5. Next, open the ticket you just created and expand the Project card to fill in those fields.
-     - Set the Status field based on the descriptions listed.
-     - If known, set the Priority, Sprint, and Estimate fields.
-
-![image](https://github.com/user-attachments/assets/335659ba-ef63-4eb2-a716-d73d2e178f53)
   
 ### Bug Report Template
 
 1. Document your bug 
      - Make sure that you take a screenshot of what’s happening. Take some notes, clearly documenting the situation and how to reproduce it. 
-     - If necessary/able, take screenshots of the logs. You can access this tab by right-clicking on the screen and from the menu selecing the Inspect button (you can alternatively press F12, Ctrl + Shift + I for Windows/Linux, or Cmd + Opt + I for Mac)
+     - If necessary/able, take screenshots of the logs. You can access this tab by right-clicking on the screen and from the menu selecing the Inspect button (you can alternatively press <kbd>F12</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>I</kbd> for Windows/Linux, or <kbd>Cmd</kbd> + <kbd>Opt</kbd> + <kbd>I</kbd> for Mac)
 2. Head to the SEMOSS Community repo.
 3. Click on the issues tab
 4. Click on new issue
