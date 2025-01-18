@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-Welcome to the Community repo! This is where all new tickets for bug reports or feature requests should be submitted. In the “Issues” tab, you can peruse and contribute to existing tickets that have been submitted. Each of these is a comprehensive parent issue for a bug or feature that is then broken down into actionable tasks through their associated “sub-issues”, which are housed within the backend repos (Semoss, Monolith) or the frontend repo (semoss-ui).  
+Welcome to the Community repo! This is where all new tickets for bug reports or feature requests should be submitted. In the “Issues” tab, you can view and contribute to existing tickets that have been submitted. Each of these is a comprehensive parent issue for a bug or feature that is then broken down into actionable tasks through their associated “sub-issues”, which are housed within the backend repos (Semoss, Monolith) or the frontend repo (semoss-ui).  
 
-Below is an overview of best practices we encourage you to follow when submitting a new ticket. Any questions or concerns can be directed to Kathy (kyang4).
+Below is an overview of best practices we encourage you to follow when submitting a ticket. Please search for an existing tickets before submitting a new one.
 
 ### Creating a new issue
 
