@@ -1,9 +1,10 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
+about: Report a bug to help improve the platform
+title: ""
 labels: ''
 assignees: ''
+type: bug
 
 ---
 
@@ -48,9 +49,9 @@ Make sure to follow these steps before submitting your issue - thank you!
 
 Add any other context about the problem here.
 
-### Tasks
+### Requirements
 
-A list of individual tasks / issues that need to be completed before the ticket is resolved
+What are more specific requirements that needs to take to consider this issue resolved.
 
 - [ ]
 - [ ]

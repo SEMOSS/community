@@ -1,9 +1,10 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[FEAT]"
+title: ""
 labels: ''
 assignees: ''
+type: feature
 
 ---
 
@@ -22,9 +23,9 @@ A clear and concise description of any alternative solutions or features you've 
 ### Additional context
 Add any other context or screenshots about the feature request here.
 
-### Tasks
+### Requirements
 
-A list of individual tasks / issues that need to be completed before the ticket is resolved
+What are more specific requirements that needs to take to consider this issue resolved.
 
 - [ ]
 - [ ]
