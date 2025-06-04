@@ -1,0 +1,63 @@
+name: Bug
+description: Report a bug to help improve the platform.
+labels: []
+type: bug
+projects: ["SEMOSS/39"]
+body:
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    description: Please search across all relevant repositories to see if an issue already exists.
+    options:
+    - label: I confirm that I have not found an existing or similar issue.
+      required: true
+- type: textarea
+  attributes:
+    label: How to reproduce the issue
+    placeholder: |
+      1. Go to '...'
+      2. Click on '....'
+      3. Scroll down to '....'
+      4. See error
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected Result
+    description: What did you expect to happen?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Actual Results
+    description: What actually happened
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional Context
+    description: Add any other context or screenshots to include that help explain your problem. If possible, please include the network tab if the issue pertains to pixel calls.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Requirements or Tasks
+    description: What are more specific requirements or tasks that needs to take to consider this issue resolved?
+    placeholder: |
+      - [ ] Requirement 1
+      - [ ] Requirement 2
+      - [ ] Requirement 3
+  validations:
+    required: false
+- type: checkboxes
+  attributes:
+    label: Have you reproduced the issue with at least the latest released version?
+    options:
+    - label: "Yes"
+      required: true
+- type: checkboxes
+  attributes:
+    label: I have checked my terminal/console and have included relevant text here?
+    options:
+    - label: "Yes"
+      required: true
